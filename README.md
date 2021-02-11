@@ -2,7 +2,10 @@
 
 python selenium code for whatsapp birthday wish automatically on current date
 
-Install python on system
-Install pip on system
-Run the requirement.txt 
+1. Install python on system
+2. Install pip on system
+3. Run the below commands
+pip install pywhatkit
+pip install xlrd==1.2.0
+
 Run the WhatsappSendMessage.py
